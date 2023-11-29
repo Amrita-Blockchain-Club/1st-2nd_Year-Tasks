@@ -7,9 +7,13 @@ Coding tasks for the first-year students to get into the Amrita Blockchain Club.
 4. Write four lines about what sparked your interest in this Amrita Blockchain Club.
 5. Create a GitHub account. Fork our 1st-Year-Tasks repository from the club's GitHub. Add your coding files to the repository and mail us your github repository link.
 
-Submission Format:
-  Task 1: Code file
-  Taks 2: Code file
-  Task 3: Screenshot
-  Task 4: Text File
-  Task 5: Link
+## Submission Format:
+  - Task 1: Code file
+  
+  - Taks 2: Code file
+  
+  - Task 3: Screenshot
+  
+  - Task 4: Text File
+  
+  - Task 5: Link
