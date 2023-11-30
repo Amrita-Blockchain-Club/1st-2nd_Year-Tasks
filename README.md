@@ -1,4 +1,4 @@
-# 1st-Year-Tasks
+# 1st-2nd_Year-Tasks
 Coding tasks for the first-year students to get into the Amrita Blockchain Club.
 
 1. Develop a simple login page: Input the username and password from the user, convert them into respective hashes, and store them in a text file or csv file. Implement both Register and Login functionality. (No UI required; implement it in the command line interface.)
